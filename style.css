@@ -35,11 +35,12 @@ h3 {
 
 }
 
-#help {
+.help {
     display: flex;
     margin-left: 30vh;
     margin-bottom: 50px;
     color: #007eff;
+    margin-left: 200px;
 }
 
 .input {
@@ -51,8 +52,17 @@ h3 {
     border: 2px solid grey;
 }
 
+.img {
+    width: 13vh;
+    margin-bottom: 25px;
+}
+
 .margin-left {
     margin-left: 8px;
+}
+
+.margin-top{
+    margin-top: 6px;
 }
 
 
